@@ -1,0 +1,111 @@
+<mxfile host="Electron" modified="2023-06-12T17:48:27.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.3.7 Chrome/112.0.5615.204 Electron/24.5.0 Safari/537.36" etag="1v7qxtpHKAHYJEfLlr6Q" version="21.3.7" type="device">
+  <diagram name="Strona-1" id="7jnBiiJhRvFwlPNYA0c9">
+    <mxGraphModel dx="1098" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cszwDOBrqllBJFsmuDse-8" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;T-shirt&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b&gt;&amp;nbsp;29.90&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b&gt;&amp;nbsp;Koszulka z Myszką Miki&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="217" y="-827" width="260" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=2;" parent="1" source="cszwDOBrqllBJFsmuDse-1" target="cszwDOBrqllBJFsmuDse-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;category1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="272" y="-720" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.127;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=2;" parent="1" source="cszwDOBrqllBJFsmuDse-3" target="cszwDOBrqllBJFsmuDse-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-750" />
+              <mxPoint x="190" y="-720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;product1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="-770" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.115;entryY=0.553;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=2;" parent="1" source="cszwDOBrqllBJFsmuDse-4" target="cszwDOBrqllBJFsmuDse-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="-541" />
+              <mxPoint x="210" y="-531" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;product2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="-561.5" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.135;entryY=0.561;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=2;" parent="1" source="cszwDOBrqllBJFsmuDse-5" target="cszwDOBrqllBJFsmuDse-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;product3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="-370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=2;" parent="1" source="cszwDOBrqllBJFsmuDse-6" target="cszwDOBrqllBJFsmuDse-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;product4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="-200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.698;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;curved=1;" parent="1" source="cszwDOBrqllBJFsmuDse-7" target="cszwDOBrqllBJFsmuDse-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;specialOffer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="-380" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;T-shirt&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b&gt;&amp;nbsp;18.90&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b&gt;&amp;nbsp;Koszulka biała&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="217" y="-640" width="260" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.412;entryY=0.919;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=2;" parent="1" source="cszwDOBrqllBJFsmuDse-13" target="cszwDOBrqllBJFsmuDse-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;category1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="272" y="-530" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-15" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;Sandały&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;69.80&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;Sandały robocze czarne&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;category = null&lt;/b&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-448.5" width="267" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-16" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Czapka&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;35&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;Czapka zimowa z pomponem&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-251.5" width="260" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.119;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cszwDOBrqllBJFsmuDse-2" target="cszwDOBrqllBJFsmuDse-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="-140" />
+              <mxPoint x="520" y="-140" />
+              <mxPoint x="520" y="-209" />
+              <mxPoint x="681" y="-209" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;category2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="265" y="-150" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-19" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;Ubrania&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Koszulki letnie damskie&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="-810" width="260" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-22" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;b&gt;Nakrycia głowy&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#080808&quot;&gt;&lt;b&gt;&amp;nbsp;Czapki i kapelusze unisex&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="-290" width="260" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-25" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Posezonowa obniżka cen&lt;br&gt;od 01.06.2023 do 15.07.2023&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&amp;nbsp;0.2&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="760" y="-558.5" width="280" height="228.5" as="geometry" />
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.904;entryY=0.312;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cszwDOBrqllBJFsmuDse-27" target="cszwDOBrqllBJFsmuDse-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="-480" />
+              <mxPoint x="530" y="-480" />
+              <mxPoint x="530" y="-270" />
+              <mxPoint x="490" y="-270" />
+              <mxPoint x="490" y="-190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cszwDOBrqllBJFsmuDse-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;specialOffer.product = product4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="830" y="-488.5" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
